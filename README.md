@@ -14,4 +14,4 @@ If you encounter an error while fetching weather data, please follow these steps
 2. Open the `index.html` file in your preferred browser to test your Weather App and ensure it's functioning correctly.
 
 ## screenshot
-<img width="1002" height="840" alt="Screenshot 2025-08-24 141600" src="https://github.com/user-attachments/assets/94fb1d1b-a04b-4fdd-990a-a0681e19e08d" />
+<img width="1780" height="851" alt="image" src="https://github.com/user-attachments/assets/e1fd259d-86c2-4a0d-af5f-9bb51d0d5be2" />
